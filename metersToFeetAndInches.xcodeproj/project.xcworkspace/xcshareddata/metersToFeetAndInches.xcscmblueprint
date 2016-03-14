@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4A2FDF115BE4EB777903D659CACF40C0B681DB33",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6B194261F38F7CCDC1E9DF77BB5D87950D718B81" : 0,
+    "4A2FDF115BE4EB777903D659CACF40C0B681DB33" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BA9D576D-5EE5-40A1-B14A-4BAEDA0DF31F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6B194261F38F7CCDC1E9DF77BB5D87950D718B81" : "",
+    "4A2FDF115BE4EB777903D659CACF40C0B681DB33" : "metersToFeetAndInches\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "metersToFeetAndInches",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "metersToFeetAndInches.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Cordavi\/bigNerdRanch-metersToFeetAndInches.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4A2FDF115BE4EB777903D659CACF40C0B681DB33"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Cordavi\/a-good-start-big-nerd-ranch-exercise-00.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6B194261F38F7CCDC1E9DF77BB5D87950D718B81"
+    }
+  ]
+}
